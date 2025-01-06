@@ -148,7 +148,7 @@ Tüm veriler işlem sonrası otomatik olarak yedeklendi.
 
 ## Video Tanıtım
 
-Youtube video linki : 
+Youtube video linki : https://www.youtube.com/watch?v=3YdQrevc3yM
 
 
 
